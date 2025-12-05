@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442709962056",
+    "project_id": "chatappnara",
+    "storage_bucket": "chatappnara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442709962056:android:5f96d6da2a26a25c31577d",
+        "android_client_info": {
+          "package_name": "com.chatappnara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDON7HuAx3MZfNGkLdKfU-2RU05h4B9Lc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
